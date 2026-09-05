@@ -1,5 +1,5 @@
-Cybersecurity Lab Management
-Student Name
+Cybersecurity Lab Management\
+Student Name\
 Your Name
 Student ID
 Your Student ID
