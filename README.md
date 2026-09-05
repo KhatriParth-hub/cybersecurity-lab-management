@@ -1,19 +1,19 @@
 Cybersecurity Lab Management\
-    Student Name\
-    Your Name\
-    Student ID\
-    Your Student ID\
-    Project Description\
+  --  Student Name\
+  --  Your Name\
+  --  Student ID\
+  --  Your Student ID\
+  --  Project Description\
 This project is a simple C-based prototype for managing basic cybersecurity laboratory information. It collects information about computers, network devices, security tools, and related costs, then calculates the total laboratory investment.\
 Input\
-  The program asks the user for:\
-      Lab name\
-      Number of computers\
-      Number of network devices\
-      Number of security tools\
-      Cost per computer\
-      Cost per network device\
-      Annual security software cost\
+  -The program asks the user for:\
+     -- Lab name\
+     -- Number of computers\
+     -- Number of network devices\
+     --  Number of security tools\
+     -- Cost per computer\
+     -- Cost per network device\
+     -- Annual security software cost\
 Processing\
    The program calculates:\
        Computer Cost\
