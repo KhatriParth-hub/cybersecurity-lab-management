@@ -15,23 +15,23 @@ Input\
      -- Cost per network device\
      -- Annual security software cost\
 Processing\
-   The program calculates:\
-       Computer Cost\
-       Number of Computers × Cost per Computer\
-       Network Cost\
-       Number of Network Devices × Cost per Network Device\
-       Total Lab Investment\
-       Computer Cost + Network Cost + Software Cost\
+  - The program calculates:\
+      -- Computer Cost\
+      -- Number of Computers × Cost per Computer\
+      -- Network Cost\
+      -- Number of Network Devices × Cost per Network Device\
+      --  Total Lab Investment\
+      --  Computer Cost + Network Cost + Software Cost\
     Output\
-       The program generates a formatted cybersecurity laboratory report containing:\
-           Lab name\
-           Number of computers\
-           Number of network devices\
-           Number of security tools\
-           Computer cost\
-           Network device cost\
-           Software cost\
-           Total lab investment\
+      - The program generates a formatted cybersecurity laboratory report containing:\
+          --- Lab name\
+          --- Number of computers\
+          --- Number of network devices\
+          ---  Number of security tools\
+          ---  Computer cost\
+          ---  Network device cost\
+          ---  Software cost\
+          ---  Total lab investment\
 Sample Output\
 ========================================\
  CYBERSECURITY LAB REPORT\
